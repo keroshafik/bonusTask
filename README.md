@@ -1,1 +1,1 @@
-# bonusTask
+This repository contains automated tests written in java (selenuim) for the website https://www.demoblaze.com/. The tests cover several scenarios such as user registration, login, logout, and order creation.
